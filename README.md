@@ -7,3 +7,5 @@ Li, Lihong, et al. "A contextual-bandit approach to personalized news article re
 The code is in the folder ./Personalized_News_Recommendation
 
 All the models is in ./Personalized_News_Recommendation/bandits.py
+
+"./output" is the root of the outcome.You can find the experiment code in ./Personalized_News_Recommendation/experiments
